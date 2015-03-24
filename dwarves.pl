@@ -6,6 +6,10 @@
 #               LEARN HOW TO USE ELEMENTS AND ALTER THEM
 
 
+
+#this was a program practicing array mods for bioinformatics 
+
+
 @favorite_dwarves = ();
 @favorite_dwarves = ('Grumpy', 'Bashful', 'Sleepy', 'Dopey', 'Doc', 'Happy', 'Sneezy');
 print "@favorite_dwarves \n";
