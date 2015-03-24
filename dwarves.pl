@@ -1,4 +1,11 @@
 #!/usr/bin/perl -w
+
+#I'm thinking of these scripts as lessons. 
+#If they are lessons then I want to create headers and formatting like this
+
+#               LEARN HOW TO USE ELEMENTS AND ALTER THEM
+
+
 @favorite_dwarves = ();
 @favorite_dwarves = ('Grumpy', 'Bashful', 'Sleepy', 'Dopey', 'Doc', 'Happy', 'Sneezy');
 print "@favorite_dwarves \n";
